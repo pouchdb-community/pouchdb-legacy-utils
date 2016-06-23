@@ -13,5 +13,18 @@
     "pouchdb-promise": "5.4.4",
     "pouchdb-utils": "5.4.4"
   },
-  "files": []
+  "files": [],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolanlawson/pouchdb-global-utils.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nolanlawson/pouchdb-global-utils/issues"
+  },
+  "homepage": "https://github.com/nolanlawson/pouchdb-global-utils#readme"
 }
