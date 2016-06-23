@@ -1,5 +1,5 @@
 {
-  "name": "pouchdb-global-utils",
+  "name": "pouchdb-legacy-utils",
   "version": "1.0.0",
   "description": "PouchDB.utils, PouchDB.Errors, and PouchDB.ajax as a plugin",
   "main": "index.js",
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nolanlawson/pouchdb-global-utils.git"
+    "url": "git+https://github.com/nolanlawson/pouchdb-legacy-utils.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/nolanlawson/pouchdb-global-utils/issues"
+    "url": "https://github.com/nolanlawson/pouchdb-legacy-utils/issues"
   },
-  "homepage": "https://github.com/nolanlawson/pouchdb-global-utils#readme"
+  "homepage": "https://github.com/nolanlawson/pouchdb-legacy-utils#readme"
 }
